@@ -46,13 +46,11 @@ git clone https://github.com/This-is-Leo/toronto-geojson-2025.git
 ---
 
 ## Notes
-
 This file has been filtered based on the Government of Canada Forward Sortation Area definition, where Toronto FSAs start with the letter **'M'**.
 
 * Source: [Government of Canada FSA Definition](https://ised-isde.canada.ca/site/office-superintendent-bankruptcy/en/statistics-and-research/forward-sortation-area-fsa-and-north-american-industry-classification-naics-reports/forward-sortation-area-definition)
 
 ---
-## Disclaimer
-
-<sub>This project is for educational and training purposes only. Efforts were made to ensure data accuracy using public sources, but the results may include simplifications or errors. Not affiliated with any official agency. Use at your own discretion.</sub>
+#### Disclaimer
+#### This project is for educational and training purposes only. Efforts were made to ensure data accuracy using public sources, but the results may include simplifications or errors. Not affiliated with any official agency. Use at your own discretion.
 ---
